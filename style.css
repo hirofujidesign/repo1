@@ -1,0 +1,18 @@
+.block1{
+	background-color:gray;
+	height: 100px;
+	width:100%;
+}
+.block2{
+	background-color:gray;
+	height: 50px;
+	width: 500px;
+	margin-left: 300px;
+	float:left;
+}
+.block3{
+	background-color:gray;
+	height: 50px;
+	width: 200px;
+	margin-left:1000px;
+}
